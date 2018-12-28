@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mí
+title: test
 ---
 
 ## No hay nada aquí. ¡Volvete!
