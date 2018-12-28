@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 sidebar_link: true
 ---
 
@@ -9,5 +9,6 @@ sidebar_link: true
   for your own use upon downloading. Carry on!
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+¡Hola y Bienvenidos! He empezado este blog para escribir y aprender más en la idioma española.
+
+Soy estadounidense y un anglohablante, y por eso, si ves un error (del sitio, contenido, ortografía o español), notifíqueme  por favor.
