@@ -9,11 +9,11 @@ relative_permalinks: false
 title:            Sol de Fierro
 tagline:          'Mis reflejos de todos, en español'
 description:      'Un blog de mis reflejos sobre todos, en la lengua española'
-url:              https://soldefierro.github.io
+url:              https://soldefierro.github.io/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Sol de Fierro'
+  url:            https://github.com/soldefierro
 
 paginate:         5
