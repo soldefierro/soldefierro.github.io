@@ -10,7 +10,7 @@ title:            Sol de Fierro
 tagline:          'Mis reflejos de todos, en español'
 description:      'Un blog de mis reflejos sobre todos, en la lengua española'
 url:              https://soldefierro.github.io/
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Sol de Fierro'
