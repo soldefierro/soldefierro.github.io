@@ -9,7 +9,7 @@ relative_permalinks: false
 title:            Sol de Fierro
 tagline:          'Mis reflejos de todos, en español'
 description:      'Un blog de mis reflejos sobre todos, en la lengua española'
-url:              https://soldefierro.github.io
+url:              soldefierro.github.io
 baseurl:          /
 
 author:
