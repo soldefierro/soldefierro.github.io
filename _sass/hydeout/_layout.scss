@@ -87,7 +87,8 @@ body {
           $section-spacing;
 
   h1, h2 {
-    
+
+    color: inherit;
 
     &:last-child {
       margin-bottom: 0;
@@ -187,7 +188,7 @@ body {
       color: $heading-color;
       margin: 0;
       h1, h2 {
-        color: inherit;
+        // color: inherit;
 
         &:last-child {
           margin-bottom: $heading-spacing;
