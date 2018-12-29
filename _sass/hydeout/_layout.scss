@@ -41,6 +41,7 @@ body {
     font-size: $large-font-size;
     margin-top: 0;
     margin-bottom: $heading-spacing;
+    color: #FFFFFF;
 
     .back-arrow { margin-right: 0.5rem; }
   }
@@ -207,7 +208,7 @@ body {
 ----------------------------------------------------------- */
 
 #sidebar a {
-  color: $sidebar-link-color;
+  color: #FFFFFF;
 
   svg {
     fill: $sidebar-icon-color;
