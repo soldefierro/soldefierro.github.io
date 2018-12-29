@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Análisis de Cien Años de Soledad - Primer Capítulo"
-categories:
-  - Cien Años de Soledad
 tags:
   - Literatura
   - Cien Años de Soledad
 ---
 ## Capítulo uno - Cien Años de Soledad
 
-Attención: esta entrada NO ESTÁ listo.
+Attención: esta entrada NO ESTÁ lista.
 
 ### Prefacio
 Estoy leyendo el libro "Cien Años de Soledad" cuidadosamente, como una lección de español, específicamente el vocabulario, y también una introducción a la literatura de habla hispana. Esta entrada explorará y contestará las temas y preguntas del primer capítulo de "Cien Años de Soledad".
