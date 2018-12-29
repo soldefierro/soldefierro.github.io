@@ -233,7 +233,7 @@ body {
 
 #sidebar .site-title {
   color: $sidebar-title-color;
-  a { color: inherit; }
+  a {} // color: inherit; }
 }
 #sidebar nav {
   display: flex;
