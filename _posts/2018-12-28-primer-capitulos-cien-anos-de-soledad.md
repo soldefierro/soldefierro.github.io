@@ -6,7 +6,6 @@ tags:
   - Cien Años de Soledad
 ---
 
-## Capítulo uno - Cien Años de Soledad
 
 Attención: esta entrada NO ESTÁ lista.
 
